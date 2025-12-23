@@ -1,0 +1,7 @@
+joblib==1.5.3
+natsort==8.4.0
+numpy==2.4.0
+pandas==2.3.3
+scikit_learn==1.8.0
+tqdm==4.67.1
+vscode-tqdm==4.66.2
