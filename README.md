@@ -1,15 +1,15 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
 </p>
-<p align="center"><h1 align="center">MUTUAL-INFORMATION</h1></p>
+<p align="center"><h1 align="center">HMB</h1></p>
 <p align="center">
 	<em><code>❯ </code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/farisulhaq/Mutual-Information?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/farisulhaq/Mutual-Information?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/farisulhaq/Mutual-Information?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/farisulhaq/Mutual-Information?style=default&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/farisulhaq/HMB?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/farisulhaq/HMB?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/farisulhaq/HMB?style=default&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/farisulhaq/HMB?style=default&color=0080ff" alt="repo-language-count">
 </p>
 <p align="center"><!-- default option, no dependency badges. -->
 </p>
@@ -36,7 +36,7 @@
 ##  Project Structure
 
 ```sh
-└── Mutual-Information/
+└── HMB/
     ├── Code
     │   ├── HYBRID
     │   │   └── Skenario
@@ -106,16 +106,16 @@
 
 ###  Project Index
 <details open>
-	<summary><b><code>MUTUAL-INFORMATION/</code></b></summary>
+	<summary><b><code>HMB/</code></b></summary>
 	<details> <!-- __root__ Submodule -->
 		<summary><b>__root__</b></summary>
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/requirements.txt'>requirements.txt</a></b></td>
+				<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/requirements.txt'>requirements.txt</a></b></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/MI.ipynb'>MI.ipynb</a></b></td>
+				<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/MI.ipynb'>MI.ipynb</a></b></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -125,7 +125,7 @@
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/desktop.ini'>desktop.ini</a></b></td>
+				<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/desktop.ini'>desktop.ini</a></b></td>
 			</tr>
 			</table>
 			<details>
@@ -133,73 +133,73 @@
 				<blockquote>
 					<table>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u1.base'>u1.base</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u1.base'>u1.base</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u4.test'>u4.test</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u4.test'>u4.test</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u.occupation'>u.occupation</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u.occupation'>u.occupation</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u.user'>u.user</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u.user'>u.user</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u3.base'>u3.base</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u3.base'>u3.base</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u2.test'>u2.test</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u2.test'>u2.test</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/desktop.ini'>desktop.ini</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/desktop.ini'>desktop.ini</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u3.test'>u3.test</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u3.test'>u3.test</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/ua.test'>ua.test</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/ua.test'>ua.test</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u4.base'>u4.base</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u4.base'>u4.base</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/mku.sh'>mku.sh</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/mku.sh'>mku.sh</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u2.base'>u2.base</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u2.base'>u2.base</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u.item'>u.item</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u.item'>u.item</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/ua.base'>ua.base</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/ua.base'>ua.base</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/allbut.pl'>allbut.pl</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/allbut.pl'>allbut.pl</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/ub.test'>ub.test</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/ub.test'>ub.test</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u1.test'>u1.test</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u1.test'>u1.test</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u5.test'>u5.test</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u5.test'>u5.test</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u.genre'>u.genre</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u.genre'>u.genre</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u5.base'>u5.base</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u5.base'>u5.base</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u.info'>u.info</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u.info'>u.info</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/ub.base'>ub.base</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/ub.base'>ub.base</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-100k/u.data'>u.data</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-100k/u.data'>u.data</a></b></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -209,34 +209,34 @@
 				<blockquote>
 					<table>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-1m/u1.base'>u1.base</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-1m/u1.base'>u1.base</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-1m/u4.test'>u4.test</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-1m/u4.test'>u4.test</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-1m/u3.base'>u3.base</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-1m/u3.base'>u3.base</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-1m/u2.test'>u2.test</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-1m/u2.test'>u2.test</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-1m/u3.test'>u3.test</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-1m/u3.test'>u3.test</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-1m/u4.base'>u4.base</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-1m/u4.base'>u4.base</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-1m/u2.base'>u2.base</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-1m/u2.base'>u2.base</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-1m/u1.test'>u1.test</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-1m/u1.test'>u1.test</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-1m/u5.test'>u5.test</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-1m/u5.test'>u5.test</a></b></td>
 					</tr>
 					<tr>
-						<td><b><a href='https://github.com/farisulhaq/Mutual-Information/blob/master/Datasets/ml-1m/u5.base'>u5.base</a></b></td>
+						<td><b><a href='https://github.com/farisulhaq/HMB/blob/master/Datasets/ml-1m/u5.base'>u5.base</a></b></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -250,7 +250,7 @@
 
 ###  Prerequisites
 
-Before getting started with Mutual-Information, ensure your runtime environment meets the following requirements:
+Before getting started with HMB, ensure your runtime environment meets the following requirements:
 
 - **Link File:**  [Mutual Information](https://drive.google.com/drive/folders/1G22cHIcNqPp3rwtlRHGQLDgPFD5Cu8ar?usp=drive_link)
 - **Package Manager:** Pip
@@ -258,18 +258,18 @@ Before getting started with Mutual-Information, ensure your runtime environment 
 
 ###  Installation
 
-Install Mutual-Information using one of the following methods:
+Install HMB using one of the following methods:
 
 **Build from source:**
 
-1. Clone the Mutual-Information repository:
+1. Clone the HMB repository:
 ```sh
-❯ git clone https://github.com/farisulhaq/Mutual-Information
+❯ git clone https://github.com/farisulhaq/HMB
 ```
 
 2. Navigate to the project directory:
 ```sh
-❯ cd Mutual-Information
+❯ cd HMB
 ```
 
 3. Install the project dependencies:
@@ -284,9 +284,9 @@ Install Mutual-Information using one of the following methods:
 
 ##  Contributing
 
-- **💬 [Join the Discussions](https://github.com/farisulhaq/Mutual-Information/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/farisulhaq/Mutual-Information/issues)**: Submit bugs found or log feature requests for the `Mutual-Information` project.
-- **💡 [Submit Pull Requests](https://github.com/farisulhaq/Mutual-Information/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **💬 [Join the Discussions](https://github.com/farisulhaq/HMB/discussions)**: Share your insights, provide feedback, or ask questions.
+- **🐛 [Report Issues](https://github.com/farisulhaq/HMB/issues)**: Submit bugs found or log feature requests for the `HMB` project.
+- **💡 [Submit Pull Requests](https://github.com/farisulhaq/HMB/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -294,7 +294,7 @@ Install Mutual-Information using one of the following methods:
 1. **Fork the Repository**: Start by forking the project repository to your github account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone https://github.com/farisulhaq/Mutual-Information
+   git clone https://github.com/farisulhaq/HMB
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
@@ -317,8 +317,8 @@ Install Mutual-Information using one of the following methods:
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com/farisulhaq/Mutual-Information/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=farisulhaq/Mutual-Information">
+   <a href="https://github.com/farisulhaq/HMB/graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=farisulhaq/HMB">
    </a>
 </p>
 </details>
