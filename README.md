@@ -333,6 +333,10 @@ This project is protected under the [MIT License](https://choosealicense.com/lic
 
 ##  Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+Special thanks to everyone who has contributed to this project:
 
+- **Data Source**: [MovieLens 100K Dataset](https://grouplens.org/datasets/movielens/100k) and [MovieLens 1M Dataset](https://grouplens.org/datasets/movielens/1m)
+- **Contributor**: **Noor Ifada** 
+	- [🎓 Google Scholar](https://scholar.google.com/citations?user=iZ7U2mYAAAAJ&hl)
+    - [🔬 ResearchGate](https://www.researchgate.net/profile/Noor-Ifada)
 ---
